@@ -139,6 +139,30 @@ a:hover {
   transition: all 0.4s;
 }
 
+.img-1 {
+  background: url(../images/sancho.jpg) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: auto;
+}
+
+.img-2 {
+  background: url(../images/noobie.jpg) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: auto;
+}
+
+.img-3 {
+  background: url(../images/hvitsurk.png) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100%;
+}
+
 .btn--animated {
   animation: moveInBottom 0.5s ease-out 0.75s;
   animation-fill-mode: backwards;
